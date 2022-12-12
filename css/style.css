@@ -1,0 +1,94 @@
+
+ 
+   body{
+    font-family: 'Merriweather Sans', sans-serif;
+
+        margin: 0px auto;
+        text-align: center;
+        font-size: 1.5em;
+        
+     }
+    .Top{background-color: #CBEDD5;
+       
+        height: 30em;
+        width: auto; 
+        padding-top: 0px; 
+    }
+    .jbl{
+        position: relative;
+        top: 5em;
+
+    }   
+    .Heading-web{ font-size: 1.5rem;
+        font-family: 'Montserrat', sans-serif; position: relative;
+        top: 50px;
+        margin: -40px auto;
+    } 
+
+    p{font-size: 20px;}
+    
+    
+    
+    
+    h1{
+    width: 30%;
+    margin: 50px auto 0 auto;  
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+        color: #66BFBF;
+        line-height: 2em;
+
+}
+
+    .cloud-bot{position: absolute;
+        top: 15em;
+   
+     }
+    
+    .cloud-top{
+        position: relative;
+        left: 150px;
+        top: 2em;
+    }
+   
+      
+   .me-nobg{background-color: rgb(230, 223, 223);
+   border-radius: 60%; width: 10%; margin: 10px 0 0 15px;
+}
+
+.My-First-Skill{
+ width: 20%; float: left;
+
+}
+
+
+
+.My-Second-Skill{border-radius: 00px;
+    width: 20%;   float: right;     }
+ 
+
+ 
+
+.My-Third-Skill{border-radius: 00px;
+      width: 20%; float: left;       }
+
+.My-Forth-Skill{border-radius: 00px;
+            width: 20%;  float: right;      }
+
+h2{color: #66BFBF;
+    font-weight: bold; margin: auto 10px;
+}
+
+h3{color: #11999E; }
+a{color: #11999E;}
+
+.skill-row{width: 50%;
+margin: 40px auto 100px auto; 
+text-align: left;}
+.intro{
+    width: 50%; text-align: left; margin: auto;
+}
+.University-link{
+    margin: 0 5px;
+}
+p{line-height: 2;}
